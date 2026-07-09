@@ -1,0 +1,51 @@
+{
+    "goal_hours": 90000,
+    "event_start_unix": 1783555200,
+    "virtual_end_unix": 1784764800,
+    "game": "goose-goose-duck-community-event-1",
+    "auto_penultimate_milestone": true,
+    "enable_penultimate_milestone": false,
+    "last_post_hour": "2026-07-09 10:00:00",
+    "milestones": [
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 10000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 20000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 30000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 40000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 50000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 70000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "75 ARP",
+            "current_hours": 80000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "5 Fragments",
+            "current_hours": 90000,
+            "unlocked": false
+        }
+    ]
+}
