@@ -4,7 +4,7 @@
     "virtual_end_unix": 1784764800,
     "game": "goose-goose-duck-community-event-1",
     "auto_penultimate_milestone": true,
-    "enable_penultimate_milestone": true,
+    "enable_penultimate_milestone": false,
     "last_post_hour": "2026-07-20 00:00:00",
     "milestones": [
         {
