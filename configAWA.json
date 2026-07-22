@@ -1,11 +1,11 @@
 {
     "goal_hours": 90000,
     "event_start_unix": 1783555200,
-    "virtual_end_unix": 1784764800,
+    "virtual_end_unix": 1784851200,
     "game": "goose-goose-duck-community-event-1",
     "auto_penultimate_milestone": true,
     "enable_penultimate_milestone": true,
-    "last_post_hour": "2026-07-22 16:00:00",
+    "last_post_hour": "2026-07-22 17:00:00",
     "milestones": [
         {
             "milestone_message": "20 ARP",
