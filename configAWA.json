@@ -10,7 +10,7 @@
         {
             "milestone_message": "20 ARP",
             "current_hours": 5000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "Dwarven Realms Avatar Border",
