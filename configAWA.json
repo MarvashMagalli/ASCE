@@ -1,0 +1,51 @@
+{
+    "goal_hours": 45000,
+    "event_start_unix": 1785196800,
+    "virtual_end_unix": 1785715200,
+    "game": "dwarven-realms-community-event",
+    "auto_penultimate_milestone": false,
+    "enable_penultimate_milestone": false,
+    "last_post_hour": "2026-07-29 04:00:00",
+    "milestones": [
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 5000,
+            "unlocked": true
+        },
+        {
+            "milestone_message": "Dwarven Realms Avatar Border",
+            "current_hours": 10000,
+            "unlocked": true
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 15000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "Dwarven Realms Avatar",
+            "current_hours": 20000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 25000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "Dwarven Realms Avatar Background",
+            "current_hours": 30000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 35000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 45000,
+            "unlocked": false
+        }
+    ]
+}
