@@ -25,7 +25,7 @@
         {
             "milestone_message": "Dwarven Realms Avatar",
             "current_hours": 20000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "20 ARP",
