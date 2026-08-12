@@ -40,7 +40,7 @@
         {
             "milestone_message": "20 ARP",
             "current_hours": 75000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "35 ARP",
