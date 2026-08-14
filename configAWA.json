@@ -50,7 +50,7 @@
         {
             "milestone_message": "Flux Artifact",
             "current_hours": 95000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "5 Fragments",
