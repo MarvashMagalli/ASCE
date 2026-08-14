@@ -55,7 +55,7 @@
         {
             "milestone_message": "5 Fragments",
             "current_hours": 100000,
-            "unlocked": false
+            "unlocked": true
         }
     ]
 }
