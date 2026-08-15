@@ -5,7 +5,7 @@
     "game": "old-school-runescape-community-event-2",
     "auto_penultimate_milestone": true,
     "enable_penultimate_milestone": true,
-    "last_post_hour": "2026-08-14 22:00:00",
+    "last_post_hour": "2026-08-15 00:00:00",
     "milestones": [
         {
             "milestone_message": "20 ARP",
@@ -58,5 +58,82 @@
             "unlocked": true
         }
     ],
-    "goal_message_sent": true
+    "goal_message_sent": true,
+    "stretch_goals": [
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 110000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 120000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 130000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 140000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 150000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 60000,
+            "unlocked": true
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 75000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "35 ARP",
+            "current_hours": 85000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "Flux Artifact",
+            "current_hours": 95000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "5 Fragments",
+            "current_hours": 100000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 110000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 120000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 130000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 140000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "10 ARP",
+            "current_hours": 150000,
+            "unlocked": false
+        }
+    ]
 }
