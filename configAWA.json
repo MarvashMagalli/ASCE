@@ -5,7 +5,7 @@
     "game": "old-school-runescape-community-event-2",
     "auto_penultimate_milestone": true,
     "enable_penultimate_milestone": true,
-    "last_post_hour": "2026-08-18 12:00:00",
+    "last_post_hour": "2026-08-18 16:00:00",
     "milestones": [
         {
             "milestone_message": "20 ARP",
@@ -78,7 +78,7 @@
         {
             "milestone_message": "10 ARP",
             "current_hours": 140000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "10 ARP",
