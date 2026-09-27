@@ -5,7 +5,7 @@
     "game": "aniimo-community-event",
     "auto_penultimate_milestone": false,
     "enable_penultimate_milestone": false,
-    "last_post_hour": "2026-09-26 20:00:00",
+    "last_post_hour": "2026-09-26 23:00:00",
     "milestones": [
         {
             "milestone_message": "10 ARP",
@@ -35,7 +35,8 @@
         {
             "milestone_message": "20 ARP",
             "current_hours": 60000,
-            "unlocked": false
+            "unlocked": true
         }
-    ]
+    ],
+    "goal_message_sent": true
 }
