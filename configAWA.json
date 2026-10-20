@@ -5,7 +5,7 @@
     "game": "the-finals-community-event-2",
     "auto_penultimate_milestone": false,
     "enable_penultimate_milestone": false,
-    "last_post_hour": "2026-10-20 08:00:00",
+    "last_post_hour": "2026-10-20 12:00:00",
     "milestones": [
         {
             "milestone_message": "20 ARP",
@@ -25,7 +25,7 @@
         {
             "milestone_message": "20 ARP",
             "current_hours": 55000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "Flux Artifact",
