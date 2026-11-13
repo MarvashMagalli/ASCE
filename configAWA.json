@@ -3,10 +3,10 @@
     "event_start_unix": 1794528000,
     "virtual_end_unix": 1795132800,
     "game": "broforce-community-event",
-	"game_mention": "<@$406645260987662366>",
+    "game_mention": "<@$406645260987662366>",
     "auto_penultimate_milestone": false,
     "enable_penultimate_milestone": false,
-    "last_post_hour": "2026-11-13 08:00:00",
+    "last_post_hour": "2026-11-13 12:00:00",
     "milestones": [
         {
             "milestone_message": "20 ARP",
