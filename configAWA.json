@@ -5,7 +5,7 @@
     "game": "broforce-community-event",
     "game_mention": "<@$406645260987662366>",
     "bar_start_rgb": [255, 128, 0],
-    "bar_end_rgb": [255, 255, 128],
+    "bar_end_rgb": [255, 235, 128],
     "bar_empty_rgb": [255, 255, 255],
     "auto_penultimate_milestone": false,
     "enable_penultimate_milestone": false,
