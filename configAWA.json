@@ -1,0 +1,77 @@
+{
+    "goal_hours": 100000,
+    "event_start_unix": 1795737600,
+    "virtual_end_unix": 1797033600,
+    "game": "infinity-nikki-community-event-1",
+    "game_mention": "<@$1366625080871878687>",
+    "bar_start_rgb": [
+        115,
+        170,
+        255
+    ],
+    "bar_end_rgb": [
+        130,
+        115,
+        255
+    ],
+    "bar_empty_rgb": [
+        255,
+        255,
+        255
+    ],
+    "auto_penultimate_milestone": true,
+    "enable_penultimate_milestone": false,
+    "last_post_hour": "2026-11-27 00:00:00",
+    "milestones": [
+        {
+            "milestone_message": "In-Game Bundle 1",
+            "current_hours": 10000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 20000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 30000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 40000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "In-Game Bundle 2",
+            "current_hours": 50000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "20 ARP",
+            "current_hours": 60000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "35 ARP",
+            "current_hours": 70000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "35 ARP",
+            "current_hours": 80000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "35 ARP",
+            "current_hours": 90000,
+            "unlocked": false
+        },
+        {
+            "milestone_message": "5 Fragments",
+            "current_hours": 100000,
+            "unlocked": false
+        }
+    ]
+}
