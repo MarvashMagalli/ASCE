@@ -5,14 +5,14 @@
     "game": "infinity-nikki-community-event-1",
     "game_mention": "<@$1366625080871878687>",
     "bar_start_rgb": [
-        115,
-        170,
+        0,
+        255,
         255
     ],
     "bar_end_rgb": [
-        130,
-        115,
-        255
+        255,
+        91,
+        173
     ],
     "bar_empty_rgb": [
         255,
